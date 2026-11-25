@@ -1,56 +1,66 @@
 {
   "verze": 1,
-  "aktualizovano": "2026-11-24T07:00:26+01:00",
+  "aktualizovano": "2026-11-25T07:02:30+01:00",
   "zpravy": [
     {
-      "id": "2026-11-24-lidl-usti-kureci-salmonela-rumunsko-madarsko",
-      "datum": "2026-11-23",
-      "zdroj": "SZPI – Potraviny na pranýři",
-      "stitek": "Varování",
-      "titulek": "Salmonela v kuřecím z Lidlu v Ústí nad Labem: čtvrtky z Rumunska a plátky z Maďarska",
-      "kratky": "Inspekce našla Salmonella Infantis ve dvou druzích kuřecího masa z Lidlu.",
-      "rada": "Syrovou drůbež berte vždy jako možný zdroj salmonely: oddělené skladování a prkénka, propečení v jádru na min. 75 °C a důsledné mytí rukou jsou kritické body HACCP.",
-      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202405"
+      "id": "2026-11-25-plaga-skolni-jidelny-zavazne-minimum",
+      "datum": "2026-11-24",
+      "zdroj": "ČTK / České noviny",
+      "stitek": "Legislativa",
+      "titulek": "Školní jídelny: spotřební koš má nahradit jednostránkové závazné minimum",
+      "kratky": "Školní jídelny: místo spotřebního koše jednostránkové minimum",
+      "rada": "Jídelny zatím vaří podle platné vyhlášky a dokumentaci dietních receptur neruší; až vyjde znění minima, upravte jídelníčky a s nimi i HACCP pro nové suroviny a postupy.",
+      "url": "https://www.ceskenoviny.cz/zpravy/plaga-pravidla-pro-skolni-jidelny-by-melo-nahradit-jednodussi-zavazne-minimum/2906118"
     },
     {
-      "id": "2026-11-24-kaufland-brno-ryze-arborio-skudci",
-      "datum": "2026-11-23",
-      "zdroj": "SZPI – Potraviny na pranýři",
-      "stitek": "Varování",
-      "titulek": "Živí škůdci v rýži K classic Arborio z brněnského Kauflandu",
-      "kratky": "Inspekce našla v balení rýže na rizoto živé škůdce.",
-      "rada": "Při příjmu a skladování suchých surovin kontrolujte obaly i obsah na škůdce, dodržujte FIFO a skladujte v uzavřených nádobách – to je součást preventivní ochrany proti škůdcům v HACCP.",
-      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202382"
+      "id": "2026-11-25-snemovna-platformova-prace-kuryri",
+      "datum": "2026-11-24",
+      "zdroj": "ČTK / České noviny",
+      "stitek": "Legislativa",
+      "titulek": "Zákon o platformové práci ve Sněmovně: kurýři rozvozu jídla se mohou stát zaměstnanci",
+      "kratky": "Platformová práce: kurýři rozvozu jídla se mohou stát zaměstnanci",
+      "rada": "Podniky s vlastními kurýry nebo rozvozem přes platformy by si měly včas projít smlouvy s kurýry, protože se mění posuzování závislé práce.",
+      "url": "https://www.ceskenoviny.cz/zpravy/zakon-o-platformove-praci-snizi-ochranu-na-pracovnim-trhu-varuje-opozice/2905716"
     },
     {
-      "id": "2026-11-24-suchdol-trampske-cigaro-po-datu",
-      "datum": "2026-11-23",
-      "zdroj": "SZPI – Potraviny na pranýři",
-      "stitek": "Varování",
-      "titulek": "Prošlé a zkažené Trampské cigáro v prodejně Hruška v Suchdolu nad Odrou",
-      "kratky": "Masný výrobek byl po datu použitelnosti, slizký a páchl rozkladem.",
-      "rada": "U chlazených masných výrobků hlídejte datum použitelnosti denně a prošlé zboží okamžitě vyřaďte – po datu použitelnosti se potravina nesmí prodat ani použít v kuchyni.",
-      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202379"
+      "id": "2026-11-25-jidelny-prodej-nevydanych-obedu",
+      "datum": "2026-11-24",
+      "zdroj": "Jídelny.cz",
+      "stitek": "Z praxe",
+      "titulek": "Prodej nevydaných obědů ve školní jídelně: co hlídat ve vyhlášce a v HACCP",
+      "kratky": "Nevydané obědy: jak je prodat a co zapsat do HACCP",
+      "rada": "Kdo prodává zbylé porce, musí mít v HACCP stanovenou nejdelší dobu od dovaření do výdeje, postup výdeje do přinesených nádob a upozornění na okamžitou spotřebu.",
+      "url": "https://jidelny.cz/jak-na-prodej-nevydanych-obedu/"
     },
     {
-      "id": "2026-11-24-rebel-energy-pouches-kofein",
-      "datum": "2026-11-23",
+      "id": "2026-11-25-real-mad-honey-grayanotoxin",
+      "datum": "2026-11-24",
       "zdroj": "SZPI – Potraviny na pranýři",
       "stitek": "Varování",
-      "titulek": "Energetické sáčky Rebel Energy Pouches s nebezpečným množstvím kofeinu",
-      "kratky": "Dvě příchutě sáčků z e-shopu inspekce označila za zdraví škodlivé.",
-      "rada": "Prodejny a bufety s doplňkovým sortimentem by měly prověřovat dodavatele „trendových“ výrobků a jejich soulad s pravidly EU, protože za bezpečnost prodávaného zboží odpovídá i prodejce.",
-      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202401"
+      "titulek": "SZPI: nepálský „šílený med“ REAL MAD HONEY z rozvozu obsahoval škodlivý grayanotoxin",
+      "kratky": "„Šílený med“ REAL MAD HONEY obsahoval škodlivý grayanotoxin",
+      "rada": "Exotické a „zážitkové“ potraviny zařazujte do nabídky jen od ověřeného dodavatele s doklady o bezpečnosti; přírodní toxiny patří do analýzy nebezpečí při příjmu surovin.",
+      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202411"
     },
     {
-      "id": "2026-11-24-holesov-oxidovana-vina-sauvignon",
-      "datum": "2026-11-23",
+      "id": "2026-11-25-tempo-med-kvetovy-product-bohemia",
+      "datum": "2026-11-24",
       "zdroj": "SZPI – Potraviny na pranýři",
+      "stitek": "Varování",
+      "titulek": "Med květový Product Bohemia 650 g nebyl med, SZPI v něm našla cizí enzymy",
+      "kratky": "Med květový Product Bohemia nebyl med",
+      "rada": "U medu a dalších často falšovaných surovin chtějte od dodavatele doklady o původu a kvalitě; hostům nabízíte jen to, co odpovídá deklaraci.",
+      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202403"
+    },
+    {
+      "id": "2026-11-24-pfas-domaci-vejce-rafa",
+      "datum": "2026-11-23",
+      "zdroj": "ČT24",
       "stitek": "Zajímavost",
-      "titulek": "Oxidovaná bílá vína Nobleza a Famille Castel z prodejny v Holešově",
-      "kratky": "Inspekce stáhla dvě bílá vína Sauvignon s vadou oxidáza.",
-      "rada": "Víno skladujte v chladu, temnu a s ohledem na stáří ročníku; při příjmu i před nabídkou hostům kontrolujte barvu a vůni, starší levná bílá vína rychle oxidují.",
-      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202377"
+      "titulek": "Vejce z domácích chovů mohou mít víc PFAS než vejce z velkochovů",
+      "kratky": "Odborník varuje před PFAS ve vejcích slepic z volného výběhu",
+      "rada": "Provozy, které nakupují vejce mimo běžnou distribuci, by měly mít v HACCP ověřeného dodavatele a dohledatelný původ suroviny – chemická rizika (kontaminanty) patří do analýzy nebezpečí stejně jako mikrobiologická.",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/domaci-vejce-mohou-obsahovat-vic-vecnych-chemikalii-nez-ta-z-velkochovu-varuje-chemik-379428"
     },
     {
       "id": "2026-11-24-diety-skolni-jidelny-dobrovolne-hygienik",
@@ -73,14 +83,54 @@
       "url": "https://svet-potravin.cz/vyhodili-jste-uctenku-nevadi-zavadne-zbozi-muzete-reklamovat-i-bez-ni/"
     },
     {
-      "id": "2026-11-24-pfas-domaci-vejce-rafa",
+      "id": "2026-11-24-lidl-usti-kureci-salmonela-rumunsko-madarsko",
       "datum": "2026-11-23",
-      "zdroj": "ČT24",
+      "zdroj": "SZPI – Potraviny na pranýři",
+      "stitek": "Varování",
+      "titulek": "Salmonela v kuřecím z Lidlu v Ústí nad Labem: čtvrtky z Rumunska a plátky z Maďarska",
+      "kratky": "Inspekce našla Salmonella Infantis ve dvou druzích kuřecího masa z Lidlu.",
+      "rada": "Syrovou drůbež berte vždy jako možný zdroj salmonely: oddělené skladování a prkénka, propečení v jádru na min. 75 °C a důsledné mytí rukou jsou kritické body HACCP.",
+      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202405"
+    },
+    {
+      "id": "2026-11-24-kaufland-brno-ryze-arborio-skudci",
+      "datum": "2026-11-23",
+      "zdroj": "SZPI – Potraviny na pranýři",
+      "stitek": "Varování",
+      "titulek": "Živí škůdci v rýži K classic Arborio z brněnského Kauflandu",
+      "kratky": "Inspekce našla v balení rýže na rizoto živé škůdce.",
+      "rada": "Při příjmu a skladování suchých surovin kontrolujte obaly i obsah na škůdce, dodržujte FIFO a skladujte v uzavřených nádobách – to je součást preventivní ochrany proti škůdcům v HACCP.",
+      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202382"
+    },
+    {
+      "id": "2026-11-24-rebel-energy-pouches-kofein",
+      "datum": "2026-11-23",
+      "zdroj": "SZPI – Potraviny na pranýři",
+      "stitek": "Varování",
+      "titulek": "Energetické sáčky Rebel Energy Pouches s nebezpečným množstvím kofeinu",
+      "kratky": "Dvě příchutě sáčků z e-shopu inspekce označila za zdraví škodlivé.",
+      "rada": "Prodejny a bufety s doplňkovým sortimentem by měly prověřovat dodavatele „trendových“ výrobků a jejich soulad s pravidly EU, protože za bezpečnost prodávaného zboží odpovídá i prodejce.",
+      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202401"
+    },
+    {
+      "id": "2026-11-24-holesov-oxidovana-vina-sauvignon",
+      "datum": "2026-11-23",
+      "zdroj": "SZPI – Potraviny na pranýři",
       "stitek": "Zajímavost",
-      "titulek": "Vejce z domácích chovů mohou mít víc PFAS než vejce z velkochovů",
-      "kratky": "Odborník varuje před PFAS ve vejcích slepic z volného výběhu",
-      "rada": "Provozy, které nakupují vejce mimo běžnou distribuci, by měly mít v HACCP ověřeného dodavatele a dohledatelný původ suroviny – chemická rizika (kontaminanty) patří do analýzy nebezpečí stejně jako mikrobiologická.",
-      "url": "https://ct24.ceskatelevize.cz/clanek/veda/domaci-vejce-mohou-obsahovat-vic-vecnych-chemikalii-nez-ta-z-velkochovu-varuje-chemik-379428"
+      "titulek": "Oxidovaná bílá vína Nobleza a Famille Castel z prodejny v Holešově",
+      "kratky": "Inspekce stáhla dvě bílá vína Sauvignon s vadou oxidáza.",
+      "rada": "Víno skladujte v chladu, temnu a s ohledem na stáří ročníku; při příjmu i před nabídkou hostům kontrolujte barvu a vůni, starší levná bílá vína rychle oxidují.",
+      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202377"
+    },
+    {
+      "id": "2026-11-24-suchdol-trampske-cigaro-po-datu",
+      "datum": "2026-11-23",
+      "zdroj": "SZPI – Potraviny na pranýři",
+      "stitek": "Varování",
+      "titulek": "Prošlé a zkažené Trampské cigáro v prodejně Hruška v Suchdolu nad Odrou",
+      "kratky": "Masný výrobek byl po datu použitelnosti, slizký a páchl rozkladem.",
+      "rada": "U chlazených masných výrobků hlídejte datum použitelnosti denně a prošlé zboží okamžitě vyřaďte – po datu použitelnosti se potravina nesmí prodat ani použít v kuchyni.",
+      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202379"
     },
     {
       "id": "2026-11-23-khs-vysocina-rijen-59-kontrol",
@@ -123,16 +173,6 @@
       "url": "https://www.skutecnezdravaskola.cz/novinky-ze-skol/aktuality-z-programu/jak-vysoce-prumyslove-zpracovane-potraviny-meni-detsky-mozek-nova-studie-varuje-pred-jejich-vlivem-na-navyky-a-nadvahu"
     },
     {
-      "id": "2026-11-20-klobuky-hospoda-trus-hlodavcu-zakaz-kuchyne",
-      "datum": "2026-11-20",
-      "zdroj": "SZPI",
-      "stitek": "Z praxe",
-      "titulek": "Hospoda na Kladensku: SZPI zakázala kuchyni a sklad kvůli trusu hlodavců",
-      "kratky": "SZPI zakázala hospodě kuchyni kvůli trusu hlodavců",
-      "rada": "Ochrana proti škůdcům (síťky, těsnění, utěsněné prostupy) a pravidelná kontrola deratizačních staniček jsou předpoklad celého HACCP; bez nich hrozí okamžitý zákaz provozu.",
-      "url": "https://www.potravinynapranyri.cz/WDetail.aspx?id=81755"
-    },
-    {
       "id": "2026-11-20-eet-vypadek-internetu-48-hodin",
       "datum": "2026-11-20",
       "zdroj": "Podnikatel.cz",
@@ -161,6 +201,16 @@
       "kratky": "Kaufland stahuje červené brambory kvůli solaninu",
       "rada": "Při příjmu a přípravě brambor vyřazujte zelené, naklíčené a poškozené hlízy a skladujte je v chladu a temnu; solanin se vařením nezničí.",
       "url": "https://spolecnost.kaufland.cz/pro-novinare/newsroom/2026/listopad/stazeni-vyrobku-konzumni-brambory-cervene-varny-typ-a-1-5-kg"
+    },
+    {
+      "id": "2026-11-20-klobuky-hospoda-trus-hlodavcu-zakaz-kuchyne",
+      "datum": "2026-11-20",
+      "zdroj": "SZPI",
+      "stitek": "Z praxe",
+      "titulek": "Hospoda na Kladensku: SZPI zakázala kuchyni a sklad kvůli trusu hlodavců",
+      "kratky": "SZPI zakázala hospodě kuchyni kvůli trusu hlodavců",
+      "rada": "Ochrana proti škůdcům (síťky, těsnění, utěsněné prostupy) a pravidelná kontrola deratizačních staniček jsou předpoklad celého HACCP; bez nich hrozí okamžitý zákaz provozu.",
+      "url": "https://www.potravinynapranyri.cz/WDetail.aspx?id=81755"
     },
     {
       "id": "2026-11-19-eet-leden-bez-pokut-aplikace-1-prosince",
@@ -203,16 +253,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/2903511"
     },
     {
-      "id": "2026-11-18-koureva-aromata-konec-povoleni",
-      "datum": "2026-11-18",
-      "zdroj": "PotravinyInfo.cz",
-      "stitek": "Legislativa",
-      "titulek": "Kouřová aromata: EU nemá žádné povolené, pro maso, sýry a ryby platí přechod do poloviny 2029",
-      "kratky": "Kouřová aromata končí, u masa a sýrů přechod do 2029",
-      "rada": "Výrobci uzenin, sýrů a ryb by měli prověřit receptury a dodavatele aromat a včas plánovat náhradu nebo tradiční uzení.",
-      "url": "https://www.potravinyinfo.cz/33/kourove-aroma-oznacovani-slozky-uniqueidgOkE4NvrWuMikzsedRddoj57SInVsiXspLpGVMy1prA/?uri_view_type=4"
-    },
-    {
       "id": "2026-11-18-rasff-cr-polske-kure-kruti-salmonela",
       "datum": "2026-11-18",
       "zdroj": "RASFF",
@@ -221,6 +261,16 @@
       "kratky": "Salmonela v kuřecím a krůtím mase z Polska",
       "rada": "Syrová drůbež se bere jako kontaminovaná: oddělené prkénko a nůž, propečení na nejméně 70 °C po 2 minuty a mytí rukou po každé manipulaci.",
       "url": "https://rasff.fruit-risk.com/week/2026-W47.html"
+    },
+    {
+      "id": "2026-11-18-koureva-aromata-konec-povoleni",
+      "datum": "2026-11-18",
+      "zdroj": "PotravinyInfo.cz",
+      "stitek": "Legislativa",
+      "titulek": "Kouřová aromata: EU nemá žádné povolené, pro maso, sýry a ryby platí přechod do poloviny 2029",
+      "kratky": "Kouřová aromata končí, u masa a sýrů přechod do 2029",
+      "rada": "Výrobci uzenin, sýrů a ryb by měli prověřit receptury a dodavatele aromat a včas plánovat náhradu nebo tradiční uzení.",
+      "url": "https://www.potravinyinfo.cz/33/kourove-aroma-oznacovani-slozky-uniqueidgOkE4NvrWuMikzsedRddoj57SInVsiXspLpGVMy1prA/?uri_view_type=4"
     },
     {
       "id": "2026-11-18-khs-zlin-kuchyne-socialnich-sluzeb-sterky",
@@ -263,16 +313,6 @@
       "url": "https://khsusti.cz/statni-zdravotni-dozor-hygieny-vyzivy-a-pbu-v-rijnu-2026/"
     },
     {
-      "id": "2026-11-15-eet-registrace-31-tisic-z-600-tisic",
-      "datum": "2026-11-15",
-      "zdroj": "Podnikatel.cz / Generální finanční ředitelství",
-      "stitek": "Oznámení",
-      "titulek": "K EET 2.0 se zatím přihlásilo jen 31 tisíc podnikatelů z odhadovaných 600 tisíc",
-      "kratky": "K EET 2.0 se přihlásilo jen 31 tisíc z 600 tisíc podnikatelů",
-      "rada": "Šest týdnů před startem je přihlášena zhruba každá dvacátá firma; gastro provozy by si měly registraci, certifikát a aktualizaci pokladny vyřídit včas, ne až v prosincové špičce.",
-      "url": "https://www.podnikatel.cz/clanky/k-eet-2-0-se-zatim-prihlasilo-31-tisic-podnikatelu-celkem-jich-ma-byt-az-600-tisic/"
-    },
-    {
       "id": "2026-11-15-ppwr-vlastni-nadoba-zakaznika-od-unora-2027",
       "datum": "2026-11-15",
       "zdroj": "Spotřebitelov.cz / Centrum.cz",
@@ -281,6 +321,16 @@
       "kratky": "Od 12. 2. 2027 musí provozy s jídlem s sebou plnit nádoby zákazníků",
       "rada": "Doplňte do HACCP postup pro příjem a plnění vlastních nádob zákazníků (kontrola čistoty, oddělené místo plnění, žádný kontakt s výdejními náčiními a surovinami, alergeny) a připravte ceduli s pravidly.",
       "url": "https://centrum.cz/clanek/restaurace-v-cesku-od-unora-2027-musi-vyhovet-hostum-vlastni-krabicku-naplni-za-stejnou-cenu-hospodsti-se-boji-spiny-344539"
+    },
+    {
+      "id": "2026-11-15-eet-registrace-31-tisic-z-600-tisic",
+      "datum": "2026-11-15",
+      "zdroj": "Podnikatel.cz / Generální finanční ředitelství",
+      "stitek": "Oznámení",
+      "titulek": "K EET 2.0 se zatím přihlásilo jen 31 tisíc podnikatelů z odhadovaných 600 tisíc",
+      "kratky": "K EET 2.0 se přihlásilo jen 31 tisíc z 600 tisíc podnikatelů",
+      "rada": "Šest týdnů před startem je přihlášena zhruba každá dvacátá firma; gastro provozy by si měly registraci, certifikát a aktualizaci pokladny vyřídit včas, ne až v prosincové špičce.",
+      "url": "https://www.podnikatel.cz/clanky/k-eet-2-0-se-zatim-prihlasilo-31-tisic-podnikatelu-celkem-jich-ma-byt-az-600-tisic/"
     },
     {
       "id": "2026-11-24-bvl-10-let-alimentarnich-nakaz",
@@ -351,73 +401,23 @@
       "kratky": "SZPI zveřejnila další tři přepálené fritovací oleje",
       "rada": "Fritovací olej je klasický kontrolní bod: stanovte teplotu (max. 175–180 °C), interval výměny a kontrolu testovacími proužky nebo testerem a zapisujte ji.",
       "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202369"
-    },
-    {
-      "id": "2026-11-24-kyberutoky-chlazeni-supermarkety-nukib",
-      "datum": "2026-11-11",
-      "zdroj": "ČT24 / NÚKIB",
-      "stitek": "Varování",
-      "titulek": "Hackeři vypínají chlazení v evropských supermarketech, NÚKIB varuje české provozy",
-      "kratky": "Kyberútoky na chladicí systémy: zboží se kazilo, NÚKIB radí opatření",
-      "rada": "Kdo má chlazení s dálkovou správou, měl by zkontrolovat hesla a přístup z internetu a mít nezávislou kontrolu teplot – výpadek chladicího řetězce je kritický kontrolní bod a bez záznamu teplot nelze prokázat bezpečnost zboží.",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/evropa-celi-kyberutokum-na-chladici-zarizeni-nukib-doporucuje-preventivni-opatreni-379438"
-    },
-    {
-      "id": "2026-11-11-socialni-vybor-nedoporucil-zmenu-zavisle-prace",
-      "datum": "2026-11-11",
-      "zdroj": "ČMKOS / Poslanecká sněmovna",
-      "stitek": "Legislativa",
-      "titulek": "Sociální výbor sněmovny nedoporučil novelu, která mění definici závislé práce",
-      "kratky": "Sociální výbor nedoporučil novelu definice závislé práce",
-      "rada": "V gastru, kde je práce na IČO častá, sledujte vývoj; bez ohledu na formu spolupráce musí každý člověk v kuchyni projít školením hygieny, které provozovatel doloží.",
-      "url": "https://www.cmkos.cz/25294/odborari-zaplnili-snemovnu-socialni-vybor-nedoporucil-schvalit-legalizaci-svarcsystemu-poslanci-ano-zustali-osamoceni/"
-    },
-    {
-      "id": "2026-11-11-skolni-stravovani-normy-jen-doporuceni",
-      "datum": "2026-11-11",
-      "zdroj": "ČTK / MŠMT, MZd",
-      "stitek": "Legislativa",
-      "titulek": "Vláda ruší povinný spotřební koš: výživové normy ve školních jídelnách mají být jen doporučením",
-      "kratky": "Spotřební koš ve školních jídelnách má být jen doporučením",
-      "rada": "Jídelny by neměly hned zahazovat přípravu na nový koš: dokud změna nevyjde ve Sbírce, platí stávající znění, a hygienické povinnosti (HACCP, alergeny, dietní pokrmy) se nemění.",
-      "url": "https://www.ceskenoviny.cz/zpravy/ministri-standardy-vyhlasky-o-skolnim-stravovani-budou-nezavaznym-doporucenim/2900695"
-    },
-    {
-      "id": "2026-11-11-liberec-kebab-jen-maso-kureci-misto-hoveziho",
-      "datum": "2026-11-11",
-      "zdroj": "SZPI / Potraviny na pranýři",
-      "stitek": "Z praxe",
-      "titulek": "Hovězí kebab v Liberci obsahoval nedeklarované kuřecí maso",
-      "kratky": "SZPI: hovězí kebab obsahoval nedeklarované kuřecí maso",
-      "rada": "Co je na lístku, musí odpovídat skutečnosti včetně druhu masa; ověřte složení kebabových válců od dodavatele a uchovávejte jeho specifikace.",
-      "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202352"
-    },
-    {
-      "id": "2026-11-11-khs-plzen-jarmark-necitny-stanky-polovina-zavad",
-      "datum": "2026-11-11",
-      "zdroj": "KHS Plzeňského kraje",
-      "stitek": "Z praxe",
-      "titulek": "Jarmark na hradě Nečtiny: polovina stánků s občerstvením měla nedostatky",
-      "kratky": "KHS Plzeň: polovina stánků na jarmarku měla nedostatky",
-      "rada": "Před sezónou vánočních trhů má mít i stánek u sebe HACCP, doklady o původu surovin a prohlášení o shodě obalů – kontroly je u stánkařů vyžadují.",
-      "url": "https://www.khsplzen.cz/aktuality/"
     }
   ],
   "terminy": [
     {
       "datum": "2027-01-01",
       "nazev": "Start EET 2.0",
-      "popis": "Povinná evidence tržeb online, účtenka jen na žádost hosta."
+      "popis": "Povinná evidence tržeb podle zákona 180/2026 Sb., účtenka jen na žádost."
     },
     {
       "datum": "2027-01-01",
       "nazev": "DPH 12 % na nealko v gastru",
-      "popis": "Nealkoholické nápoje v restauracích přejdou do snížené sazby 12 %."
+      "popis": "Nealkoholické nápoje ve stravovacích službách ve snížené sazbě 12 %."
     },
     {
       "datum": "2027-02-12",
       "nazev": "PPWR: vlastní nádoba hosta",
-      "popis": "Prodej jídla a nápojů s sebou musí umožnit plnění do vlastní nádoby."
+      "popis": "Prodej jídla a nápojů s sebou musí umožnit zákazníkovi vlastní nádobu."
     }
   ]
 }

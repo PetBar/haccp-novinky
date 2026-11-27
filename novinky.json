@@ -1,7 +1,27 @@
 {
  "verze": 1,
- "aktualizovano": "2026-11-26T07:05:50+01:00",
+ "aktualizovano": "2026-11-27T07:01:28+01:00",
  "zpravy": [
+  {
+   "id": "2026-11-27-platformova-prace-treti-cteni",
+   "datum": "2026-11-26",
+   "zdroj": "ČTK",
+   "stitek": "Legislativa",
+   "titulek": "Zákon o platformové práci před schválením: kurýři s jídlem mohou být od roku 2027 zaměstnanci",
+   "kratky": "Platformová práce: kurýři s jídlem mohou být od 2027 zaměstnanci",
+   "rada": "Provozovny, které rozvážejí přes platformy nebo mají vlastní kurýry na fakturu, by si měly včas ověřit smluvní nastavení rozvozců a to, kdo odpovídá za podmínky převozu jídla.",
+   "url": "https://www.ceskenoviny.cz/zpravy/zakon-o-platformove-praci-se-ve-snemovne-priblizil-ke-schvaleni/2905716"
+  },
+  {
+   "id": "2026-11-27-lekari-szu-skolni-vyhlaska-pripominky",
+   "datum": "2026-11-26",
+   "zdroj": "Zdravé zprávy",
+   "stitek": "Legislativa",
+   "titulek": "Lékaři a SZÚ chtějí, aby nová pravidla pro školní jídelny prošla připomínkovým řízením",
+   "kratky": "Lékaři a SZÚ žádají připomínkové řízení k pravidlům jídelen",
+   "rada": "Konečná podoba i termín nových pravidel jsou nejisté, proto ať jídelny dál vaří podle platné vyhlášky 107/2005 Sb. a nemění zavedené receptury a dietní postupy, dokud nevyjde konečné znění.",
+   "url": "https://www.zdravezpravy.cz/2026/11/26/lekarske-spolecnosti-zadaji-pripominkovani-skolni-stravovaci-vyhlasky/"
+  },
   {
    "id": "2026-11-26-europol-opson-xv-falsovane-potraviny",
    "datum": "2026-11-26",
@@ -13,24 +33,14 @@
    "url": "https://www.foodsafetynews.com/2026/11/opson-results-reveal-horse-meat-honey-and-olive-oil-fraud/"
   },
   {
-   "id": "2026-11-26-vsetin-zmrzlinarna-arasidy-pistacie",
+   "id": "2026-11-27-mze-ceske-potraviny-skolni-jidelny",
    "datum": "2026-11-25",
-   "zdroj": "SZPI – Potraviny na pranýři",
-   "stitek": "Z praxe",
-   "titulek": "Zmrzlinárna ve Vsetíně: v pistáciové zmrzlině arašídy, v sorbetu pistácie",
-   "kratky": "Vsetín: arašídy v pistáciové zmrzlině",
-   "rada": "Ochucovací pasty mohou obsahovat levnější ořechy a sdílené nádobí přenáší alergeny – ověřte složení past a oddělte náčiní.",
-   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202394"
-  },
-  {
-   "id": "2026-11-26-praha-6-kebab-neuvedena-soja",
-   "datum": "2026-11-25",
-   "zdroj": "SZPI – Potraviny na pranýři",
-   "stitek": "Z praxe",
-   "titulek": "Rychlé občerstvení v Praze 6: kebab obsahoval sóju neuvedenou mezi alergeny",
-   "kratky": "Praha 6: v kebabu neuvedená sója",
-   "rada": "U hotových kebabových a masných směsí čtěte složení od dodavatele a alergeny z něj přeneste do nabídky.",
-   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202413"
+   "zdroj": "Ministerstvo zemědělství",
+   "stitek": "Legislativa",
+   "titulek": "MZe chce ve školních jídelnách víc českých, regionálních a bio potravin",
+   "kratky": "MZe chce do školních jídelen víc českých a bio potravin",
+   "rada": "Jídelny by měly počítat s tím, že při nákupu bude hrát roli i původ surovin; u nových regionálních dodavatelů je potřeba ověřit registraci, dohledatelnost a podmínky dopravy (HACCP: schvalování dodavatelů).",
+   "url": "https://mze.gov.cz/public/portal/mze/tiskovy-servis/tiskove-zpravy/ministr-zemedelstvi-chce-dostat-ceske-potraviny-do-skolnich-jidelen-resit-jen-vyzivove-normy-nestaci-dulezity-je-i-puvod-surovin-a-take-jejich-kvalita"
   },
   {
    "id": "2026-11-26-praha-4-lici-sest-pesticidu",
@@ -43,16 +53,6 @@
    "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202216"
   },
   {
-   "id": "2026-11-26-olomouc-restaurace-carpaccio-stec",
-   "datum": "2026-11-25",
-   "zdroj": "SZPI – Potraviny na pranýři",
-   "stitek": "Varování",
-   "titulek": "Restaurace v Olomouci: v hovězím carpacciu ze Španělska byla bakterie STEC",
-   "kratky": "Olomouc: STEC v carpacciu v restauraci",
-   "rada": "Syrové masové pokrmy (carpaccio, tatarák) berte jako vysoce rizikové: ověřený dodavatel, přísné chlazení a v HACCP zvláštní kritický bod.",
-   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202417"
-  },
-  {
    "id": "2026-11-26-mzd-zverejnilo-pravidla-skolni-jidelny-zakazy",
    "datum": "2026-11-25",
    "zdroj": "ČTK / České noviny",
@@ -61,6 +61,16 @@
    "kratky": "Jídelny bez instantních polévek a palmového tuku od září 2027",
    "rada": "Začněte uchovávat jídelníčky a nákupní doklady aspoň rok a včas si v HACCP a u dodavatelů připravte náhradu instantních základů, palmového tuku a masných polotovarů.",
    "url": "https://www.ceskenoviny.cz/zpravy/nova-zavazna-pravidla-pro-skolni-jidelny-stanovi-skladbu-kazdeho-denniho-jidla/2906118"
+  },
+  {
+   "id": "2026-11-26-olomouc-restaurace-carpaccio-stec",
+   "datum": "2026-11-25",
+   "zdroj": "SZPI – Potraviny na pranýři",
+   "stitek": "Varování",
+   "titulek": "Restaurace v Olomouci: v hovězím carpacciu ze Španělska byla bakterie STEC",
+   "kratky": "Olomouc: STEC v carpacciu v restauraci",
+   "rada": "Syrové masové pokrmy (carpaccio, tatarák) berte jako vysoce rizikové: ověřený dodavatel, přísné chlazení a v HACCP zvláštní kritický bod.",
+   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202417"
   },
   {
    "id": "2026-11-26-litvinov-zavodni-jidelna-hovezi-kazeni",
@@ -73,6 +83,16 @@
    "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202412"
   },
   {
+   "id": "2026-11-26-vsetin-zmrzlinarna-arasidy-pistacie",
+   "datum": "2026-11-25",
+   "zdroj": "SZPI – Potraviny na pranýři",
+   "stitek": "Z praxe",
+   "titulek": "Zmrzlinárna ve Vsetíně: v pistáciové zmrzlině arašídy, v sorbetu pistácie",
+   "kratky": "Vsetín: arašídy v pistáciové zmrzlině",
+   "rada": "Ochucovací pasty mohou obsahovat levnější ořechy a sdílené nádobí přenáší alergeny – ověřte složení past a oddělte náčiní.",
+   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202394"
+  },
+  {
    "id": "2026-11-26-lidl-olomouc-kureci-stehna-salmonella-infantis",
    "datum": "2026-11-25",
    "zdroj": "SZPI – Potraviny na pranýři",
@@ -81,6 +101,16 @@
    "kratky": "Lidl: salmonela v rumunských kuřecích stehnech",
    "rada": "Syrové drůbeží maso berte vždy jako zdroj salmonel: oddělené prkénko, propečení na 75 °C a umytí rukou i ploch.",
    "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202396"
+  },
+  {
+   "id": "2026-11-26-praha-6-kebab-neuvedena-soja",
+   "datum": "2026-11-25",
+   "zdroj": "SZPI – Potraviny na pranýři",
+   "stitek": "Z praxe",
+   "titulek": "Rychlé občerstvení v Praze 6: kebab obsahoval sóju neuvedenou mezi alergeny",
+   "kratky": "Praha 6: v kebabu neuvedená sója",
+   "rada": "U hotových kebabových a masných směsí čtěte složení od dodavatele a alergeny z něj přeneste do nabídky.",
+   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202413"
   },
   {
    "id": "2026-11-26-socialni-sluzby-uhrady-stravy-2027",
@@ -103,16 +133,6 @@
    "url": "https://www.hygpraha.cz/mimoradne-kontroly-skolnich-jidelen-v-praze-odhalily-dve-pochybeni-pri-manipulaci-s-vejci-dusledna-prevence-je-klicem-k-bezpeci-stravniku/"
   },
   {
-   "id": "2026-11-25-tempo-med-kvetovy-product-bohemia",
-   "datum": "2026-11-24",
-   "zdroj": "SZPI – Potraviny na pranýři",
-   "stitek": "Varování",
-   "titulek": "Med květový Product Bohemia 650 g nebyl med, SZPI v něm našla cizí enzymy",
-   "kratky": "Med květový Product Bohemia nebyl med",
-   "rada": "U medu a dalších často falšovaných surovin chtějte od dodavatele doklady o původu a kvalitě; hostům nabízíte jen to, co odpovídá deklaraci.",
-   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202403"
-  },
-  {
    "id": "2026-11-25-real-mad-honey-grayanotoxin",
    "datum": "2026-11-24",
    "zdroj": "SZPI – Potraviny na pranýři",
@@ -121,6 +141,16 @@
    "kratky": "„Šílený med“ REAL MAD HONEY obsahoval škodlivý grayanotoxin",
    "rada": "Exotické a „zážitkové“ potraviny zařazujte do nabídky jen od ověřeného dodavatele s doklady o bezpečnosti; přírodní toxiny patří do analýzy nebezpečí při příjmu surovin.",
    "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202411"
+  },
+  {
+   "id": "2026-11-25-tempo-med-kvetovy-product-bohemia",
+   "datum": "2026-11-24",
+   "zdroj": "SZPI – Potraviny na pranýři",
+   "stitek": "Varování",
+   "titulek": "Med květový Product Bohemia 650 g nebyl med, SZPI v něm našla cizí enzymy",
+   "kratky": "Med květový Product Bohemia nebyl med",
+   "rada": "U medu a dalších často falšovaných surovin chtějte od dodavatele doklady o původu a kvalitě; hostům nabízíte jen to, co odpovídá deklaraci.",
+   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202403"
   },
   {
    "id": "2026-11-25-jidelny-prodej-nevydanych-obedu",
@@ -133,6 +163,16 @@
    "url": "https://jidelny.cz/jak-na-prodej-nevydanych-obedu/"
   },
   {
+   "id": "2026-11-25-snemovna-platformova-prace-kuryri",
+   "datum": "2026-11-24",
+   "zdroj": "ČTK / České noviny",
+   "stitek": "Legislativa",
+   "titulek": "Zákon o platformové práci ve Sněmovně: kurýři rozvozu jídla se mohou stát zaměstnanci",
+   "kratky": "Platformová práce: kurýři rozvozu jídla se mohou stát zaměstnanci",
+   "rada": "Podniky s vlastními kurýry nebo rozvozem přes platformy by si měly včas projít smlouvy s kurýry, protože se mění posuzování závislé práce.",
+   "url": "https://www.ceskenoviny.cz/zpravy/zakon-o-platformove-praci-snizi-ochranu-na-pracovnim-trhu-varuje-opozice/2905716"
+  },
+  {
    "id": "2026-11-25-plaga-skolni-jidelny-zavazne-minimum",
    "datum": "2026-11-24",
    "zdroj": "ČTK / České noviny",
@@ -143,14 +183,14 @@
    "url": "https://www.ceskenoviny.cz/zpravy/plaga-pravidla-pro-skolni-jidelny-by-melo-nahradit-jednodussi-zavazne-minimum/2906118"
   },
   {
-   "id": "2026-11-25-snemovna-platformova-prace-kuryri",
-   "datum": "2026-11-24",
-   "zdroj": "ČTK / České noviny",
-   "stitek": "Legislativa",
-   "titulek": "Zákon o platformové práci ve Sněmovně: kurýři rozvozu jídla se mohou stát zaměstnanci",
-   "kratky": "Platformová práce: kurýři rozvozu jídla se mohou stát zaměstnanci",
-   "rada": "Podniky s vlastními kurýry nebo rozvozem přes platformy by si měly včas projít smlouvy s kurýry, protože se mění posuzování závislé práce.",
-   "url": "https://www.ceskenoviny.cz/zpravy/zakon-o-platformove-praci-snizi-ochranu-na-pracovnim-trhu-varuje-opozice/2905716"
+   "id": "2026-11-26-bruntal-brokolice-flonikamid",
+   "datum": "2026-11-23",
+   "zdroj": "SZPI – Potraviny na pranýři",
+   "stitek": "Varování",
+   "titulek": "Velkoobchod v Bruntále: polská brokolice s 21krát překročeným limitem pesticidu",
+   "kratky": "Brokolice z Polska: pesticid 21krát nad limit",
+   "rada": "Opakované nálezy u jednoho dodavatele zeleniny jsou důvod k jeho přehodnocení v seznamu schválených dodavatelů.",
+   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202371"
   },
   {
    "id": "2026-11-26-khs-zlin-rijen-53-kontrol-11-pokut",
@@ -171,16 +211,6 @@
    "kratky": "Thajská bazalka z velkoobchodu s pesticidy nad limit",
    "rada": "U dovážených bylin a zeleniny od asijských velkoobchodů chtějte doklady o původu a sledujte stažené šarže na Potravinách na pranýři.",
    "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202336"
-  },
-  {
-   "id": "2026-11-26-bruntal-brokolice-flonikamid",
-   "datum": "2026-11-23",
-   "zdroj": "SZPI – Potraviny na pranýři",
-   "stitek": "Varování",
-   "titulek": "Velkoobchod v Bruntále: polská brokolice s 21krát překročeným limitem pesticidu",
-   "kratky": "Brokolice z Polska: pesticid 21krát nad limit",
-   "rada": "Opakované nálezy u jednoho dodavatele zeleniny jsou důvod k jeho přehodnocení v seznamu schválených dodavatelů.",
-   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202371"
   },
   {
    "id": "2026-11-24-pfas-domaci-vejce-rafa",
@@ -213,16 +243,6 @@
    "url": "https://svet-potravin.cz/vyhodili-jste-uctenku-nevadi-zavadne-zbozi-muzete-reklamovat-i-bez-ni/"
   },
   {
-   "id": "2026-11-24-kaufland-brno-ryze-arborio-skudci",
-   "datum": "2026-11-23",
-   "zdroj": "SZPI – Potraviny na pranýři",
-   "stitek": "Varování",
-   "titulek": "Živí škůdci v rýži K classic Arborio z brněnského Kauflandu",
-   "kratky": "Inspekce našla v balení rýže na rizoto živé škůdce.",
-   "rada": "Při příjmu a skladování suchých surovin kontrolujte obaly i obsah na škůdce, dodržujte FIFO a skladujte v uzavřených nádobách – to je součást preventivní ochrany proti škůdcům v HACCP.",
-   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202382"
-  },
-  {
    "id": "2026-11-24-lidl-usti-kureci-salmonela-rumunsko-madarsko",
    "datum": "2026-11-23",
    "zdroj": "SZPI – Potraviny na pranýři",
@@ -231,6 +251,16 @@
    "kratky": "Inspekce našla Salmonella Infantis ve dvou druzích kuřecího masa z Lidlu.",
    "rada": "Syrovou drůbež berte vždy jako možný zdroj salmonely: oddělené skladování a prkénka, propečení v jádru na min. 75 °C a důsledné mytí rukou jsou kritické body HACCP.",
    "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202405"
+  },
+  {
+   "id": "2026-11-24-kaufland-brno-ryze-arborio-skudci",
+   "datum": "2026-11-23",
+   "zdroj": "SZPI – Potraviny na pranýři",
+   "stitek": "Varování",
+   "titulek": "Živí škůdci v rýži K classic Arborio z brněnského Kauflandu",
+   "kratky": "Inspekce našla v balení rýže na rizoto živé škůdce.",
+   "rada": "Při příjmu a skladování suchých surovin kontrolujte obaly i obsah na škůdce, dodržujte FIFO a skladujte v uzavřených nádobách – to je součást preventivní ochrany proti škůdcům v HACCP.",
+   "url": "https://www.potravinynapranyri.cz/Detail.aspx?id=202382"
   },
   {
    "id": "2026-11-24-suchdol-trampske-cigaro-po-datu",
@@ -371,36 +401,6 @@
    "kratky": "SZPI: v hospůdce zanedbaný úklid, kouření a zvířata v provozu",
    "rada": "Sanitační plán a pravidelný odvoz odpadu jsou základ správné hygienické praxe; zvířata a kouření do provozu nepatří nikdy.",
    "url": "https://www.potravinynapranyri.cz/WDetail.aspx?id=81754"
-  },
-  {
-   "id": "2026-11-24-kosik-suip-pokuta-kuryri",
-   "datum": "2026-11-18",
-   "zdroj": "ČTK / Státní úřad inspekce práce",
-   "stitek": "Z praxe",
-   "titulek": "Košík.cz zaplatí 9,3 milionu za skryté zprostředkování práce kurýrů",
-   "kratky": "Inspekce práce trestá i firmu, která z pronájmu pracovníků těží.",
-   "rada": "Provozovatelé, kteří využívají kurýry nebo brigádníky přes externí firmy, by si měli ověřit, že jde o řádnou agenturu práce, protože pokuta může dopadnout i na ně.",
-   "url": "https://www.ceskenoviny.cz/zpravy/2903511"
-  },
-  {
-   "id": "2026-11-18-rasff-cr-polske-kure-kruti-salmonela",
-   "datum": "2026-11-18",
-   "zdroj": "RASFF",
-   "stitek": "Varování",
-   "titulek": "RASFF: Česko zachytilo salmonelu v chlazeném kuřecím a krůtím mase z Polska",
-   "kratky": "Salmonela v kuřecím a krůtím mase z Polska",
-   "rada": "Syrová drůbež se bere jako kontaminovaná: oddělené prkénko a nůž, propečení na nejméně 70 °C po 2 minuty a mytí rukou po každé manipulaci.",
-   "url": "https://rasff.fruit-risk.com/week/2026-W47.html"
-  },
-  {
-   "id": "2026-11-18-koureva-aromata-konec-povoleni",
-   "datum": "2026-11-18",
-   "zdroj": "PotravinyInfo.cz",
-   "stitek": "Legislativa",
-   "titulek": "Kouřová aromata: EU nemá žádné povolené, pro maso, sýry a ryby platí přechod do poloviny 2029",
-   "kratky": "Kouřová aromata končí, u masa a sýrů přechod do 2029",
-   "rada": "Výrobci uzenin, sýrů a ryb by měli prověřit receptury a dodavatele aromat a včas plánovat náhradu nebo tradiční uzení.",
-   "url": "https://www.potravinyinfo.cz/33/kourove-aroma-oznacovani-slozky-uniqueidgOkE4NvrWuMikzsedRddoj57SInVsiXspLpGVMy1prA/?uri_view_type=4"
   }
  ],
  "terminy": [
